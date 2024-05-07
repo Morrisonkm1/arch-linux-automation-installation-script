@@ -1,5 +1,5 @@
 # arch-linux-automation-installation-script #
-# I am attempting to write a script that automates the Arch installation process. The intention is to eliminate the need for manual installation. #
+# I am developing a script to automate the Arch installation process. My goal is to eliminate the need for manual installation. The script will install the packages that I employ, including KDE Plasma.#
 # To install pacman packages use: #
 cat "pacmanpackages.txt" | xargs sudo pacman -S --noconfirm
 # TO install yay packages use: #
