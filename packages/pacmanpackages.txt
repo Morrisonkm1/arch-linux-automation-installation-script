@@ -64,3 +64,4 @@ xf86-video-ati
 xorg-xinit
 zoom
 zram-generator
+xclip
