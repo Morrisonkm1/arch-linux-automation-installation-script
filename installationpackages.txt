@@ -1,0 +1,16 @@
+vim
+nano
+vi
+git
+curl
+wget
+less
+rust
+net-tools
+neof
+etch
+htop
+firefox
+google-chrome
+spotify
+discord
