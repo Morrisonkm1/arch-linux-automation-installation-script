@@ -1,4 +1,4 @@
-#These are packages I use normally. These should be installed with yay. Code presented in README#
+#These are packages I use normally. These should be installed with yay. Code on how would be presented in README#
 cloudflare-warp-bin
 discord
 github-desktop-bin
