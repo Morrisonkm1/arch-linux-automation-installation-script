@@ -1,2 +1,2 @@
 # arch-linux-automation-installation-script
-This is me trying to hopefully create a working arch installation automation script so I don't have to manually do it :)
+I am attempting to write a script that automates the Arch installation process. The intention is to eliminate the need for manual installation.
