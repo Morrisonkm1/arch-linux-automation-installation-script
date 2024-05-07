@@ -1,4 +1,4 @@
-#These are packages I use normally. These should be installed with pacman. Code presented in README#
+#These are packages I use normally. These should be installed with pacman. Code on how would be presented in README#
 amd-ucode
 android-tools
 ark
