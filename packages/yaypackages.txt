@@ -1,0 +1,27 @@
+#These are packages I use normally. These should be installed with yay. Code on how would be presented in README#
+cloudflare-warp-bin
+discord
+github-desktop-bin
+github-desktop-bin-debug
+google-chrome
+i3-wm
+i3lock
+i3status
+iwd
+kate
+konsole
+less
+libpulse
+libva-mesa-driver
+neofetch
+sfwbar
+sfwbar-debug
+snapd
+sway
+swaybg
+swaylock
+totk-mod-manager-bin
+ufw
+yay
+yay-debug
+spotify
