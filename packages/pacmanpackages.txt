@@ -65,3 +65,4 @@ xorg-xinit
 zoom
 zram-generator
 xclip
+yay
