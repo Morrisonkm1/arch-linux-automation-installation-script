@@ -1,7 +1,7 @@
 #These are packages I use normally. These should be installed with pacman. Code on how would be presented in README#
-acpilight-git
 amd-ucode
 android-tools
+apfs-fuse-git
 ark
 base
 base-devel
@@ -19,6 +19,7 @@ egl-wayland
 exfat-utils
 fail2ban
 firewalld
+flatpak
 foot
 gedit
 git
@@ -35,6 +36,7 @@ htop
 i3-wm
 i3lock
 i3status
+inotify-tools
 iwd
 kate
 konsole
@@ -92,6 +94,7 @@ xdg-utils
 xdotool
 xf86-video-amdgpu
 xf86-video-ati
+xorg-xbacklight
 xorg-xinit
 yay
 yay-debug
